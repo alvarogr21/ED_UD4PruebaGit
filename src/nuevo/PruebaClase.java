@@ -1,3 +1,4 @@
+package nuevo;
 
 public class PruebaClase {
 
